@@ -1,5 +1,4 @@
-# Fruad_detection
-Electronic debit/credit card transactions Fraud detection case study
+
 
 # Fraud-Detection
 Fraud prevention system in online transactions is actually saving consumers millions of dollars per year. It is also important to minimize the rate of transactions that are predicted as fraud but are actually not a fraud (false-positive rate) for better customer experience.
